@@ -4,6 +4,11 @@ An ESP32-based IoT assistant that connects to Wi-Fi and displays **Weather**, **
 It features a **single-button menu navigation**, **HTTP API weather fetching**, **auto-retry on failure**, and **scrolling long text suggestions**.
 
 ---
+## ▶️ **Backend Link**
+
+📹 **[https://github.com/PranshuJadaun/Braj](https://github.com/PranshuJadaun/Braj)**
+
+---
 
 ## ⭐ **Features**
 
